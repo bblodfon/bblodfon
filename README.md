@@ -1,4 +1,4 @@
-### Why are you even here? Don't you dare to read any further!
+### Hi! \\('O')/
 
 - <a href="https://github.com/bblodfon?tab=repositories" target="_blank">You are welcome to check my repos!</a>
 - [My PhD Thesis](https://bblodfon.github.io/my-phd-thesis/)
